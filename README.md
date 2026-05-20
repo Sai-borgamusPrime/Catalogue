@@ -1,24 +1,15 @@
-# Catalogue
-Website displays complete cataolgue of clients products. Gives the user the option to place order of any product on display.
-Has three pages...
+# Artsy Catalogue Demo
 
-## Home Page
-* Displays images of models on a carousel
-* Displays a featured products section consisting of cards and prices
-* Includes a working chat box at the bottom
+Static HTML/CSS/JS portfolio demo ready for GitHub Pages.
 
-## Products Page
-* Displays two rows consisting of cards. Cards consist of images of products and thier corresponding names and prices.
-* Cards have images on infinite carousels
+## Deploy
 
-## Features Page 
-* Displays any special features offered
+1. Upload all files in this folder to a GitHub repository.
+2. Go to Settings > Pages.
+3. Source: Deploy from a branch.
+4. Branch: main, folder: /root.
+5. Save.
 
-## Backend 
-* The backend is a google sheets spreadsheet. The spreadsheet records data entered into the order form.
+Your site will publish at:
 
-## API's Used
-* SheetDB API
-
-## Other services used
-* FormSubmit (For the contact form in Home page)
+`https://YOUR-USERNAME.github.io/YOUR-REPOSITORY-NAME/`
